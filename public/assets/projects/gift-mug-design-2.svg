@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Personalised Mug Design placeholder">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b1a2a"/><stop offset="1" stop-color="#14131D"/></linearGradient></defs>
+<rect width="1200" height="900" fill="url(#bg)"/>
+<circle cx="1020" cy="90" r="420" fill="#9B7BFF" fill-opacity=".12"/>
+<circle cx="120" cy="855" r="360" fill="#D4AF7C" fill-opacity=".1"/>
+<rect x="597.0807186873074" y="342.77436098492444" width="143.60028155781342" height="113.25416586513359" rx="10" fill="#9B7BFF" fill-opacity="0.5746089543330525" transform="rotate(0.1617285367854535 600 450)"/><rect x="660.6329942031916" y="119.70848315195576" width="180.85758876561076" height="140.7434475565066" rx="10" fill="#D4AF7C" fill-opacity="0.46953451992922207" transform="rotate(1.0005870261232301 600 450)"/><rect x="329.45140207626457" y="214.07168486158906" width="114.33074026570225" height="191.21025326718123" rx="10" fill="#9B7BFF" fill-opacity="0.6138288610912062" transform="rotate(-1.699898405792145 600 450)"/><rect x="712.4638020770922" y="519.9509435547287" width="99.0374692571524" height="198.203439120298" rx="10" fill="#D4AF7C" fill-opacity="0.7140073994006996" transform="rotate(4.34170365349469 600 450)"/><rect x="668.6257363430344" y="378.469198362189" width="205.06652142622812" height="93.52987905197305" rx="10" fill="#9B7BFF" fill-opacity="0.6396149984978209" transform="rotate(9.55678517257645 600 450)"/><rect x="177.79484311947357" y="156.70519312038329" width="94.4419774620058" height="109.03440458655098" rx="10" fill="#D4AF7C" fill-opacity="0.3839384660282817" transform="rotate(-11.772087760163512 600 450)"/>
+<text x="96" y="756" font-family="Arial,Helvetica,sans-serif" font-size="54" letter-spacing="3" fill="#D4AF7C">PHOTO COLLAGE</text>
+<text x="96" y="810" font-family="Georgia,serif" font-size="72" fill="#F5F2FA">Personalised Mug Design</text>
+<text x="96" y="859.5" font-family="Arial,Helvetica,sans-serif" font-size="36" letter-spacing="2" fill="#A6A2AF">PLACEHOLDER · DETAIL 2</text>
+</svg>

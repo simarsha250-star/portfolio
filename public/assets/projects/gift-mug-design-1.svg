@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Personalised Mug Design placeholder">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b1a2a"/><stop offset="1" stop-color="#14131D"/></linearGradient></defs>
+<rect width="1200" height="900" fill="url(#bg)"/>
+<circle cx="1020" cy="90" r="420" fill="#9B7BFF" fill-opacity=".12"/>
+<circle cx="120" cy="855" r="360" fill="#D4AF7C" fill-opacity=".1"/>
+<rect x="834.7716480841729" y="537.4308441828149" width="195.97628155070186" height="210.59135975343702" rx="10" fill="#9B7BFF" fill-opacity="0.6559539382839361" transform="rotate(-1.9295557131662764 600 450)"/><rect x="755.1952624671138" y="287.23517798969294" width="119.78564407200815" height="191.87323794787434" rx="10" fill="#D4AF7C" fill-opacity="0.4438990869065277" transform="rotate(-2.282781719361796 600 450)"/><rect x="373.0354904444122" y="387.6799370225891" width="196.43821343148045" height="168.2286667070485" rx="10" fill="#9B7BFF" fill-opacity="0.6439569232491575" transform="rotate(-3.9594570845176738 600 450)"/><rect x="263.0109141687914" y="248.27152179753014" width="177.02390255733576" height="149.18532799891443" rx="10" fill="#D4AF7C" fill-opacity="0.744192756523468" transform="rotate(11.859533395552791 600 450)"/><rect x="781.1901985952584" y="197.79236906850355" width="165.88889527874483" height="212.106774841485" rx="10" fill="#9B7BFF" fill-opacity="0.6080861638570605" transform="rotate(-8.750643262989188 600 450)"/><rect x="675.4091123470148" y="533.5945101732362" width="149.69339470364778" height="168.03224824277322" rx="10" fill="#D4AF7C" fill-opacity="0.5428288725171373" transform="rotate(-7.508376268441033 600 450)"/>
+<text x="96" y="756" font-family="Arial,Helvetica,sans-serif" font-size="54" letter-spacing="3" fill="#D4AF7C">PHOTO COLLAGE</text>
+<text x="96" y="810" font-family="Georgia,serif" font-size="72" fill="#F5F2FA">Personalised Mug Design</text>
+<text x="96" y="859.5" font-family="Arial,Helvetica,sans-serif" font-size="36" letter-spacing="2" fill="#A6A2AF">PLACEHOLDER · DETAIL 1</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Sky Composite placeholder">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b1a2a"/><stop offset="1" stop-color="#14131D"/></linearGradient></defs>
+<rect width="1200" height="900" fill="url(#bg)"/>
+<circle cx="1020" cy="90" r="420" fill="#9B7BFF" fill-opacity=".12"/>
+<circle cx="120" cy="855" r="360" fill="#D4AF7C" fill-opacity=".1"/>
+<defs><radialGradient id="g1"><stop offset="0" stop-color="#D4AF7C" stop-opacity=".9"/><stop offset="1" stop-color="#9B7BFF" stop-opacity="0"/></radialGradient></defs><circle cx="640" cy="414" r="306" fill="url(#g1)"/><rect x="192" y="180" width="816.0000000000001" height="450" rx="18" fill="none" stroke="#F5F2FA" stroke-opacity=".35"/>
+<text x="96" y="756" font-family="Arial,Helvetica,sans-serif" font-size="54" letter-spacing="3" fill="#D4AF7C">PHOTO EDITING</text>
+<text x="96" y="810" font-family="Georgia,serif" font-size="72" fill="#F5F2FA">Sky Composite</text>
+<text x="96" y="859.5" font-family="Arial,Helvetica,sans-serif" font-size="36" letter-spacing="2" fill="#A6A2AF">PLACEHOLDER · DETAIL 1</text>
+</svg>
